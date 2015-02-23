@@ -166,10 +166,15 @@ body {
  * OTHER
  *********************************************/
 .reveal strong {
-  color: #ffffcc;
+  color: #ffe800;
 }
 
 .reveal li {
   margin-bottom: 10px;
   line-height: 125%;
+  text-align: justify;
+}
+
+.reveal p {
+  margin-bottom: 30px;
 }
